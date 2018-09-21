@@ -1,0 +1,31 @@
+_repo: Viimeinen-tuomio_53664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2016-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53664'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcsh 'United States -- Economic conditions -- 1865-1918'
+- !lcc 'HX'
+- !lcsh 'Socialism'
+- GITenberg
+title: Viimeinen tuomio
+url: http://www.gutenberg.org/ebooks/53664
